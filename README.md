@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wangli Yue.
 - 👀 I’m interested in blockchain, smart contract, solidity jobs.
-- 🌱 I’m currently learning contracts for marketplace, farming, staking and interfaces such as ERC721, ERC1155, etc.
+- 🌱 I’m currently learning/developing contracts for marketplace, gaming, farming, staking and using standards such as ERC20, ERC721, ERC1155, etc.
 - 💞️ I’m looking to collaborate on new rising teams where I can develop smart contracts, assets, etc.
 - 📫 How to reach me: wangliyue14@gmail.com
